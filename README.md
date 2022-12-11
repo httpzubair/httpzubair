@@ -5,7 +5,7 @@
 - 📫 links to all my social media handles below
 - 🐦 twitter alsozubair
 - 📞 whatsapp +2347040706124
-- 🖇️ linkedin zubair-abdulrahman
+- 🖇️ linkedin zubair abdulrahman zubair
 
 <!---
 httpzubair/httpzubair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
