@@ -1,11 +1,11 @@
-- 👋 hi, im zubair abdulrahman zubair 
-- 👀 currently studying software engineering 
-- 🌱 currently learning blockchain technology 
-- 💞️ im looking to collaborate on creating softwares, coding and blockchain development 
-- 📫 below are links to my socials
-- 🐦 twitter.com/alsozubair
-- 📞 wa.me/+2347040706124
-- 🖇️ linkedin.com/zubairabdulrahman
+- 👋 hi, i'm zubair abdulrahman zubair 
+- 👀 beginner software engineer at custech university, lokoja 
+- 🌱 blockchain developer at national information technology development agency (nitda) 
+- 💞️ looking to collaborate on coding softwares, website html or php coding and blockchain development 
+- 📫 links to all my social media handles below
+- 🐦 twitter alsozubair
+- 📞 whatsapp +2347040706124
+- 🖇️ linkedin zubair-abdulrahman
 
 <!---
 httpzubair/httpzubair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
