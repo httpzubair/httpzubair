@@ -1,6 +1,6 @@
 - 👋 hi, i'm zubair abdulrahman zubair 
 - 👀 beginner software engineer at custech university, lokoja 
-- 🌱 blockchain developer at national information technology development agency (nitda) 
+- 🌱 blockchain newbie at national information technology development agency (nitda) 
 - 💞️ looking to collaborate on coding softwares, website html or php coding and blockchain development 
 - 📫 links to all my social media handles below
 - 🐦 twitter alsozubair
